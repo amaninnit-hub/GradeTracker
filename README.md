@@ -1,6 +1,6 @@
 # Grade Tracker
 
-A Java project that tracks student grades using Object Oriented Programming and ArrayLists.
+A Java console application for tracking student grades, built to demonstrate core Object Oriented Programming concepts.
 
 ## Features 
 - Add new students with name, student ID, and course
@@ -12,13 +12,17 @@ A Java project that tracks student grades using Object Oriented Programming and 
 
 ## Concepts Used
 - Object Oriented Programming (OOP)
-- Encapsulation with protected fields
+- Encapsulation with protected fields and getters
 - ArrayLists for dynamic grade storage
 - Methods with return types (double)
 - User input handling with Scanner
-- Null checking for safe searching
-- For-each loops
+- Exception handling
+- For-each loops and iteration
 
+## Tech Stack
+- Java (Apache Netbeans)
+- No external dependencies
+  
 ## How to Run
 - Clone the repository
 - Open in NetBeans
@@ -32,9 +36,9 @@ A Java project that tracks student grades using Object Oriented Programming and 
 4. Exit
 
 ## Example Output: 
-- Name: John
-- Student ID: S0001
-- Course: Computer Science
-- Average: 85.0
-- Highest: 95.0
-- Lowest: 75.0
+Name: John
+Student ID: S0001
+Course: Computer Science
+Average: 85.0
+Highest: 95.0
+Lowest: 75.0
